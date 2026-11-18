@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+
+# CMake
+out/
+build/
+cmake-build-*/
+
+# Archivos compilados
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.ilk
+
+# Temporales
+*.log
+*.tmp
